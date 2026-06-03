@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Top Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,35:1c2541,70:3a506b,100:5bc0be&height=230&section=header&text=Emad%20Singab&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,35:1c2541,70:3a506b,100:5bc0be&height=230&section=header&text=Emad%20Elsayed%20Singab&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h1>Hi 👋, I'm Emad Singab</h1>
+<h1>Hi 👋, I'm Emad Elsayed Singab</h1>
 
 <!-- Main Skills Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&color=%2300FFFF&size=32&center=true&vCenter=true&width=850&height=70&lines=Linux+%7C+Cloud+%7C+Virtualization;Infrastructure+Engineer;Cloud+Operations+Engineer;Automation+%7C+DevOps+Practices;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&color=%2300FFFF&size=32&center=true&vCenter=true&width=850&height=70&lines=Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+Azure;Infrastructure+as+Code+(IaC);Automation+%7C+Kubernetes;System+Administration" />
 
 </div>
 
@@ -14,27 +14,31 @@
 
 ## 💫 About Me
 
-Infrastructure-focused engineer with strong hands-on experience across **Linux system administration, cloud infrastructure, virtualization, cloud operations, and automation**.
+**Cloud DevOps Engineer** and **System Administration Trainee at the Information Technology Institute (ITI)** with strong hands-on experience across Linux system administration, cloud infrastructure, virtualization, and automation.
 
-I design, build, and operate **scalable, highly available, and production-ready systems** using **AWS, Azure, VMware vSphere, Terraform, Docker, and Kubernetes**.
-
-Focused on **automation, system reliability, troubleshooting, monitoring, and performance optimization**.
+I design, build, and operate scalable, highly available, and production-ready systems using **AWS, Azure, VMware vSphere, Terraform, Ansible, Docker, and Kubernetes**. Focused on automation, system reliability, Infrastructure as Code (IaC), and CI/CD pipelines.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 High Availability 3-Tier Web Application
-Designed and deployed a highly available 3-tier architecture across multiple servers, including **load balancing, DNS, and automated provisioning** using **Bash and Vagrant**.
+### 🔹 Highly Available Kubernetes WordPress Platform on AWS
+Built a production-style Kubernetes architecture using **kubeadm, EFS/EBS storage, ALB, HPA, and topology spread**. Migrated MySQL to an Operator-managed **Percona XtraDB Cluster** with Helm and HAProxy for 3-node database scaling.
+
+### 🔹 CAR-RENT Cloud Infrastructure
+Collaborated on deploying a highly available car rental platform on AWS utilizing **Terraform, Ansible, EC2 Auto Scaling, ALBs, and RDS PostgreSQL** across a secure multi-tier architecture.
+
+### 🔹 Highly Available 3-Tier Web Application
+Designed and deployed a highly available 3-tier architecture across multiple servers, including load balancing, DNS, and automated provisioning using **Bash and Vagrant**.
 
 ### 🔹 Azure Multi-Region Architecture
-Built a resilient Azure infrastructure using **Traffic Manager, Front Door, Bastion, NAT Gateway, and Global VNet Peering** for high availability and failover.
+Built a resilient Azure infrastructure using **Traffic Manager, Front Door, Bastion, NAT Gateway, and Global VNet Peering** for secure connectivity and failover.
+
+### 🔹 Enterprise Active Directory Infrastructure Project
+Implemented an enterprise Windows Server environment with **Active Directory, multi-domain architecture, DNS, DHCP, GPO, IIS, RODC, and WDS**.
 
 ### 🔹 vSphere Resilience Architecture
-Engineered a self-healing VMware environment using **ESXi, vCenter, HA, FT, DRS, and vMotion**.
-
-### 🔹 Windows Server Infrastructure
-Implemented enterprise environment with **Active Directory, multi-domain architecture, DNS, DHCP, GPO, IIS, RDS, and WDS**.
+Engineered a self-healing VMware virtualization environment using **ESXi, VCSA, HA, FT, DRS, and vMotion**.
 
 ---
 
@@ -42,7 +46,7 @@ Implemented enterprise environment with **Active Directory, multi-domain archite
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,terraform,jenkins,git,github,bash,python,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,terraform,ansible,jenkins,git,github,bash,python" />
 
 <br><br>
 
@@ -63,7 +67,7 @@ Implemented enterprise environment with **Active Directory, multi-domain archite
 <img src="https://img.shields.io/badge/Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Operations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20CloudOps%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Huawei%20HCCDA-D71920?style=for-the-badge&logo=huawei&logoColor=white"/>
 
 </div>
@@ -85,7 +89,7 @@ Implemented enterprise environment with **Active Directory, multi-domain archite
 <div align="center">
 
 <a href="https://www.linkedin.com/in/emad-singab-189775320/">
-<img src="https://img.shields.io/badge/LinkedIn-Emad%20Singab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Emad%20Elsayed%20Singab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/emadsingab">
@@ -106,7 +110,7 @@ Implemented enterprise environment with **Active Directory, multi-domain archite
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=%2300FFFF&size=22&center=true&vCenter=true&width=700&height=45&lines=Automation+First;High+Availability+Mindset;Cloud+Operations+Ready;Always+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=%2300FFFF&size=22&center=true&vCenter=true&width=700&height=45&lines=Automation+First;Highly+Available+Architecture;Cloud+Operations+Ready;Always+Improving" />
 
 <br><br>
 
